@@ -1,7 +1,6 @@
 # coding_site
 
 Development Process
-------
 Familiarized myself with Figma & Microsoft Visual Studio Code
 ------
 - Figma Design
