@@ -5,6 +5,11 @@
 
 body {
     font-family: "Helvetica", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
 }
 
 /* Navigation */
@@ -23,4 +28,50 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    height: 72px;
+}
+
+nav .logo {
+    position: absolute;
+    width: 344px;
+    height: 116px;
+    left: 79px;
+    top: 0px;
+}
+
+.nav-items li  {
+    list-style: none;
+    margin-right: 100px;
+}
+
+.nav-items li:nth-last-of-type(1) {
+    margin: 0;
+}
+
+.nav-items li a {
+    color: #000000;
+    font-size: 36px;
+    font-family: 'Bebas Neue';
+    text-decoration: none;
+    font-weight: 400;
+}
+
+/* Header */
+
+.header-container {
+    background: #E9E9E9;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    height: calc(100vh - 72px);
+    display: flex;
+    align-items: center;
+    p {
+        padding-bottom: 20px;
+        }
 }
