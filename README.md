@@ -3,6 +3,7 @@
 Development Process
 ------
 - Figma Design
+------
 I used Figma to design and visualize the website.
 
 ![HOMEpage](https://user-images.githubusercontent.com/113741660/192655031-a0b84522-23e4-4544-ae99-83ce7c450105.PNG)
