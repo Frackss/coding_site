@@ -2,6 +2,8 @@
 
 Development Process
 ------
+Familiarized myself with Figma & Microsoft Visual Studio Code
+------
 - Figma Design
 ------
 I used Figma to design and visualize the website.
